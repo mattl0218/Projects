@@ -39,7 +39,7 @@ Install NumPy, Pillow, Matplotlib, and other required packages.
 ```
 > pip install numpy Pillow matplotlib
 ```
-Place your own data into `face-modeling/data/data.txt`.
+Place your own data into `Face Modeling (Eigenfaces)/data/data.txt`.
 
 ## Example Usage
 
